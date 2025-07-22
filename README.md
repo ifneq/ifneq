@@ -3,7 +3,6 @@
 <div align="left">
 
   <img src="https://img.shields.io/badge/Javascript-555555?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
-  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node-57a645?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Php-777bb3?style=for-the-badge&logo=php&logoColor=white"/>
