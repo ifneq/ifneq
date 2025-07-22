@@ -1,6 +1,6 @@
 ## Languages
 
-<div align="left">
+<div>
 
   <img src="https://img.shields.io/badge/Javascript-555555?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
