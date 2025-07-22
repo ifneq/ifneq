@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2> Languages </h2>
+## Languages
 
 <div align="left">
 
